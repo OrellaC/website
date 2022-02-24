@@ -1,8 +1,9 @@
-import React from 'react';
+
 
 const Resume = () => {
     return (
         <div>
+            
             <h1>Experience</h1>
 
             <h3>Per Scholas</h3>
