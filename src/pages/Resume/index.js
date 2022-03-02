@@ -3,7 +3,11 @@
 const Resume = () => {
     return (
         <div>
-            
+            <h1>
+                Objective 
+            </h1>
+
+            <p> Aspiring entry-level data analyst with fundamental knowledge of Postgresql, JavaScript ES6, HTML5, ReactJS, Java8, and CSS3. Skilled in writing clean and efficient code.  </p>
             <h1>Experience</h1>
 
             <h3>Per Scholas</h3>
